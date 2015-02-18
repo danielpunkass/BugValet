@@ -6,7 +6,7 @@ Bug Valet: because copying a bug from Apple's Bug Reporter to Open Radar should 
 Installation
 ------------
 
-Download and install the latest version of this Safari Extension. Future updates will be automated by Safari's update infrastructure.
+Download and install the <a href="https://github.com/danielpunkass/BugValet/releases/download/1.0/BugValet1.0.safariextz">latest version</a> of this Safari Extension. Future updates can be automatically installed by Safari's update infrastructure.
 
 Use
 ---
